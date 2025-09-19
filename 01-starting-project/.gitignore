@@ -3,3 +3,9 @@ node_modules
 dist
 dist-ssr
 *.local
+pacjkage-lock.json
+yarn.lock
+.vscode
+.idea
+*.log
+.env
